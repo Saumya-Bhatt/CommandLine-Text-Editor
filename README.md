@@ -1,6 +1,6 @@
 # CommandLine Text Editor
 
-A very basic text editor made in python just for fun :)
+A very simple and basic text editor made in python just for fun :)
 
 Run the python script and pass in the path of the file to be edited. Example:
 
