@@ -11,6 +11,6 @@ python editor.py test.txt
 ## Screenshots
 
 <p float="left">
-  <img src="./images/1.png" width="500" />
-  <img src="./images/2.png" width="500" /> 
+  <img src="./images/1.png" width="400"/>
+  <img src="./images/2.png" width="400"/> 
 </p>
